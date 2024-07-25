@@ -1,7 +1,7 @@
 # test_mathOps.py
 
 import unittest
-from mathOps import sumar, restar, multiplicar, dividir
+from mathOps import sumar,restar,multiplicar,dividir
 
 class TestMathOps(unittest.TestCase):
 
