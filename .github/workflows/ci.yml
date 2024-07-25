@@ -20,4 +20,4 @@ jobs:
         
         - name: Run tests
           run: |
-            python -m unittests test_mathOps.py
+            python -m unittest test_mathOps.py
